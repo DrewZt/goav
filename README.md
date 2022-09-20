@@ -9,7 +9,7 @@ A comprehensive binding to the ffmpeg video/audio manipulation library.
 
 `````go
 
-import "github.com/giorgisio/goav/avformat"
+import "github.com/DrewZt/goav/avformat"
 
 func main() {
 
@@ -54,6 +54,7 @@ func main() {
 ## Installation
 
 [FFMPEG INSTALL INSTRUCTIONS](https://github.com/FFmpeg/FFmpeg/blob/master/INSTALL.md)
+use 3.4
 
 ``` sh
 sudo apt-get -y install autoconf automake build-essential libass-dev libfreetype6-dev libsdl1.2-dev libtheora-dev libtool libva-dev libvdpau-dev libvorbis-dev libxcb1-dev libxcb-shm0-dev libxcb-xfixes0-dev pkg-config texi2html zlib1g-dev
